@@ -1,5 +1,6 @@
 sentence = "Hello there, and how are you?"
 
 def reverse_each_word(sentence)
-  reg_array = sentence.split(" ")
+  old_array = sentence.split(" ")
+  new_array = 
 end
